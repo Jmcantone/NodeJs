@@ -29,7 +29,7 @@ let crearArchivo = (base, limite = 10) => {
 let listarTabla = (base, limite = 10) => {
 
     console.log('======================'.green);
-    console.log(`== Tabla de ${base} ==`.green);
+    console.log(`==== Tabla del ${base} ====`.green);
     console.log('======================'.green);
 
     for (let index = 1; index <= limite; index++) {
