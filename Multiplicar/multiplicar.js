@@ -38,7 +38,6 @@ let listarTabla = (base, limite = 10) => {
 }
 
 module.exports = {
-        crearArchivo,
-        listarTabla
-    }
-    //cambio
+    crearArchivo,
+    listarTabla
+}
