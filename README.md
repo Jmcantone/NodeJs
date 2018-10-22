@@ -8,4 +8,6 @@ Ejecutar este comando
 
 ```
 npm install
+
+npm i yargs --save
 ```
